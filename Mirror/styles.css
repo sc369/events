@@ -1,0 +1,22 @@
+.container {
+display: flex;    
+}
+
+article {
+    width: 50%;
+}
+
+#one {
+border: solid 1px blue;
+margin: 10px
+}
+
+#two{
+    border: solid 1px brown;
+margin: 10px
+}
+
+.output {
+color: blueviolet;
+
+}
