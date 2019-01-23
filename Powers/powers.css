@@ -1,8 +1,8 @@
-.disabled {
+.power_disabled {
     background-color: gray;
 }
 
-.enabled {
+.power_enabled {
     background-color: fuchsia;
     color: goldenrod;
 }
